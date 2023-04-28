@@ -1,4 +1,4 @@
-# AnimalRescueApp
+# Animal Rescue App
 Web interface for animal shelter to facilitate easier placement of pets. 
 
 Uses Python, Plotly, Pandas, Numpy, MongoDB.
